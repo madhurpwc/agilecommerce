@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore">
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2cstore/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+  </component>
+</module>

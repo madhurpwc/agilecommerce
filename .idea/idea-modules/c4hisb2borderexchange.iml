@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange">
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../custom/c4his/c4hisb2borderexchange/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapcpiorderexchangeb2b" exported="" />
+  </component>
+</module>

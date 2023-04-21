@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-return-order/sapreturnsbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="warehousingbackoffice" exported="" />
+  </component>
+</module>

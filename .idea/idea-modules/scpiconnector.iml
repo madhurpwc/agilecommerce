@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector">
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-subscription-billing/deprecated/scpiconnector/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

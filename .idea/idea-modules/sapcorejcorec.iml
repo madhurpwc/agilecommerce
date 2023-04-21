@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec">
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-framework-core/sapcorejcorec/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapcorejco" exported="" />
+  </component>
+</module>

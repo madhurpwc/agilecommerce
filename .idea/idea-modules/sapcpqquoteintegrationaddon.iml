@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../modules/hybris/bin/modules/sap-cpq-integration-v2/deprecated/sapcpqquoteintegrationaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapcpqquotefacades" exported="" />
+  </component>
+</module>

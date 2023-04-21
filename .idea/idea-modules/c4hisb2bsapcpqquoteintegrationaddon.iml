@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://help.sap.com/doc/9fef7037b3304324b8891e84f19f2bf3/2205" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../custom/c4his/c4hisaddoninstalldir/c4hisb2bsapcpqquoteintegrationaddon/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="sapcpqquoteintegration" exported="" />
+  </component>
+</module>

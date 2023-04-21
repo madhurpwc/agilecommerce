@@ -1,0 +1,133 @@
+/*
+ * ----------------------------------------------------------------
+ * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN! ---
+ * --- Generated at Apr 21, 2023, 10:42:53 AM                   ---
+ * ----------------------------------------------------------------
+ *  
+ * Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved.
+ */
+package de.hybris.platform.acceleratorservices.model.email;
+
+import de.hybris.bootstrap.annotations.Accessor;
+import de.hybris.platform.acceleratorservices.model.email.EmailMessageModel;
+import de.hybris.platform.catalog.model.CatalogVersionModel;
+import de.hybris.platform.core.model.ItemModel;
+import de.hybris.platform.core.model.media.MediaModel;
+import de.hybris.platform.processengine.model.BusinessProcessModel;
+import de.hybris.platform.servicelayer.model.ItemModelContext;
+
+/**
+ * Generated model class for type EmailAttachment first defined at extension acceleratorservices.
+ * <p>
+ * Item that represents email attachment. It extends Media type without adding any new attribute.
+ */
+@SuppressWarnings("all")
+public class EmailAttachmentModel extends MediaModel
+{
+	/**<i>Generated model type code constant.</i>*/
+	public static final String _TYPECODE = "EmailAttachment";
+	
+	/**<i>Generated relation code constant for relation <code>EmailMessage2EmailAttachmentsRel</code> defining source attribute <code>message</code> in extension <code>acceleratorservices</code>.</i>*/
+	public static final String _EMAILMESSAGE2EMAILATTACHMENTSREL = "EmailMessage2EmailAttachmentsRel";
+	
+	/**<i>Generated relation code constant for relation <code>BusinessProcess2CpqEmailAttachmentsRel</code> defining source attribute <code>cpqBusinessProcess</code> in extension <code>sapcpqquoteintegration</code>.</i>*/
+	public static final String _BUSINESSPROCESS2CPQEMAILATTACHMENTSREL = "BusinessProcess2CpqEmailAttachmentsRel";
+	
+	/** <i>Generated constant</i> - Attribute key of <code>EmailAttachment.message</code> attribute defined at extension <code>acceleratorservices</code>. */
+	public static final String MESSAGE = "message";
+	
+	/** <i>Generated constant</i> - Attribute key of <code>EmailAttachment.cpqBusinessProcess</code> attribute defined at extension <code>sapcpqquoteintegration</code>. */
+	public static final String CPQBUSINESSPROCESS = "cpqBusinessProcess";
+	
+	
+	/**
+	 * <i>Generated constructor</i> - Default constructor for generic creation.
+	 */
+	public EmailAttachmentModel()
+	{
+		super();
+	}
+	
+	/**
+	 * <i>Generated constructor</i> - Default constructor for creation with existing context
+	 * @param ctx the model context to be injected, must not be null
+	 */
+	public EmailAttachmentModel(final ItemModelContext ctx)
+	{
+		super(ctx);
+	}
+	
+	/**
+	 * <i>Generated constructor</i> - Constructor with all mandatory attributes.
+	 * @deprecated since 4.1.1 Please use the default constructor without parameters
+	 * @param _catalogVersion initial attribute declared by type <code>Media</code> at extension <code>catalog</code>
+	 * @param _code initial attribute declared by type <code>Media</code> at extension <code>core</code>
+	 */
+	@Deprecated(since = "4.1.1", forRemoval = true)
+	public EmailAttachmentModel(final CatalogVersionModel _catalogVersion, final String _code)
+	{
+		super();
+		setCatalogVersion(_catalogVersion);
+		setCode(_code);
+	}
+	
+	/**
+	 * <i>Generated constructor</i> - for all mandatory and initial attributes.
+	 * @deprecated since 4.1.1 Please use the default constructor without parameters
+	 * @param _catalogVersion initial attribute declared by type <code>Media</code> at extension <code>catalog</code>
+	 * @param _code initial attribute declared by type <code>Media</code> at extension <code>core</code>
+	 * @param _owner initial attribute declared by type <code>Item</code> at extension <code>core</code>
+	 */
+	@Deprecated(since = "4.1.1", forRemoval = true)
+	public EmailAttachmentModel(final CatalogVersionModel _catalogVersion, final String _code, final ItemModel _owner)
+	{
+		super();
+		setCatalogVersion(_catalogVersion);
+		setCode(_code);
+		setOwner(_owner);
+	}
+	
+	
+	/**
+	 * <i>Generated method</i> - Getter of the <code>EmailAttachment.cpqBusinessProcess</code> attribute defined at extension <code>sapcpqquoteintegration</code>. 
+	 * @return the cpqBusinessProcess
+	 */
+	@Accessor(qualifier = "cpqBusinessProcess", type = Accessor.Type.GETTER)
+	public BusinessProcessModel getCpqBusinessProcess()
+	{
+		return getPersistenceContext().getPropertyValue(CPQBUSINESSPROCESS);
+	}
+	
+	/**
+	 * <i>Generated method</i> - Getter of the <code>EmailAttachment.message</code> attribute defined at extension <code>acceleratorservices</code>. 
+	 * @return the message
+	 */
+	@Accessor(qualifier = "message", type = Accessor.Type.GETTER)
+	public EmailMessageModel getMessage()
+	{
+		return getPersistenceContext().getPropertyValue(MESSAGE);
+	}
+	
+	/**
+	 * <i>Generated method</i> - Setter of <code>EmailAttachment.cpqBusinessProcess</code> attribute defined at extension <code>sapcpqquoteintegration</code>. 
+	 *  
+	 * @param value the cpqBusinessProcess
+	 */
+	@Accessor(qualifier = "cpqBusinessProcess", type = Accessor.Type.SETTER)
+	public void setCpqBusinessProcess(final BusinessProcessModel value)
+	{
+		getPersistenceContext().setPropertyValue(CPQBUSINESSPROCESS, value);
+	}
+	
+	/**
+	 * <i>Generated method</i> - Setter of <code>EmailAttachment.message</code> attribute defined at extension <code>acceleratorservices</code>. 
+	 *  
+	 * @param value the message
+	 */
+	@Accessor(qualifier = "message", type = Accessor.Type.SETTER)
+	public void setMessage(final EmailMessageModel value)
+	{
+		getPersistenceContext().setPropertyValue(MESSAGE, value);
+	}
+	
+}
